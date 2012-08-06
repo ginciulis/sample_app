@@ -7,6 +7,8 @@ gem 'rails', '3.2.6'
 
 gem 'sqlite3'
 gem 'rspec-rails', '2.10.0'
+gem "capybara"
+
 
 gem 'json'
 
